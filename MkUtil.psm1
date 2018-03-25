@@ -10,7 +10,7 @@
 #>
 function Get-WebStatus
 {
-    [CmdletBinding()]
+    [CmdletBinding(HelpURI="https://github.com/dhmuralikrishna/powershell/blob/master/docs/Get-WebStatus.md"))]
     [Alias()]
     [OutputType([string])]
     Param
