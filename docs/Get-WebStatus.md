@@ -17,7 +17,7 @@ Get-WebStatus [-WebSiteName] <Object> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-Long description
+This is an awesome cmdlet Long description
 
 ## EXAMPLES
 
